@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-runner-0.4.1_1c3f3294686c64b2ea2d644703a6699ad5afbe08.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_144c7ddc3aae23c8fdcbde401e7dfa13b0b48a64.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_ba78b2db300e6f4edfee836690948f9bdbfa0c33.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_431cb5aec39b12382b48b0860dc22918587bccee.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_61c04e2f303f08fd6580d7b1c17d6ad44bab1374.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.1_99834044004cd7eea373d2eafb587dff84a70476.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\exploded-aar\com.android.support.test.uiautomator\uiautomator-v18\2.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ebd18603c0013727799e7ed41bcb42f3df75c0">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.uiautomator-uiautomator-v18-2.1.2_23ec242b7b083b2013598fdbb91c77d3e2c89b98.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_ba5d8f964d33da1844f9620a1e4a660c5ef3b47e.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-core-2.2.1_18b90648e7413e7d9ec93a312a068a86ed5d6a84.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_2e6e79f1dc459a4df6d6a5c5d0744718a1c5a498.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_1a84cebc3d34fd21b78f250280320f78a01cb0e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-exposed-instrumentation-api-publish-0.4.1_3be773a39611b67914114e9337c8921f912e4a5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-rules-0.4.1_b58f4e6a4ffd41697ffbed54a2536638b31ead8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\ChatClient-Assignment2\ChatClient-Assignment2\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_1a8baca7a07e223977ff0c2d978548767f943932.jar" />
+    </item>
+
+</items>
